@@ -124,8 +124,8 @@
   </build>
   <repositories>
     <repository>
-      <id>cc007-lib-shapshots-repo</id>
-      <url>https://github.com/CC007/maven-repo/raw/master/lib-snapshots</url>
+      <id>cc007-lib-releases-repo</id>
+      <url>https://github.com/CC007/maven-repo/raw/master/lib-releases</url>
     </repository>
     <repository>
       <id>cc007-private-ext-snapshot-repo</id>
